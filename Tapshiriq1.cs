@@ -15,11 +15,12 @@ namespace Tapshiriq1
             
             if (b == 0)
             {
-                Console.WriteLine("Cutdur");
+                Console.WriteLine($"{73}-Ededi cutdur");
             }
-            else
+            // else if (b == 1)
+            else    
             {
-                Console.WriteLine("Tekdir");
+                Console.WriteLine($"{73}-Ededi tekdir");
                
             }
         }
